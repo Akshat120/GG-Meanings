@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-GG Meanings is a social-shorthand site, which enables everyone to know share their shorthand and it's definition.
+GG Meanings is a social-shorthand site, which enables everyone to know/share their shorthand and it's definition.
 
 ## Development Process [ This section will have its own doc later ]
 
