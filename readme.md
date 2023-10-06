@@ -4,6 +4,12 @@
 
 GG Meanings is a social-shorthand site, which enables everyone to know share their shorthand and it's definition.
 
+## Development Process
+
+1. Backend development
+2. testing & response
+3. Frontend development
+
 ## Features
 
 This section is left to contribute
@@ -19,9 +25,7 @@ GG Meanings uses a number of open source projects to work properly:
 
 This section is left to contribute
 
-## Development
 
-This section is left to contribute
 
 ## License
 
