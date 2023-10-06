@@ -4,7 +4,7 @@
 
 GG Meanings is a social-shorthand site, which enables everyone to know share their shorthand and it's definition.
 
-## Development Process
+## Development Process [ This section will have its own doc later ]
 
 1. Backend development
 2. testing & response
